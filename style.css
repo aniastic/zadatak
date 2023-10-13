@@ -1,0 +1,33 @@
+.body {background:#242424;}
+.heading {font-family: Calibri;
+			font-size: 100px;
+			color: whitesmoke;
+			padding: 60px 40px 20px 100px;
+			margin: 0px}
+.paragraph1{font-family: Montserrat;
+			font-size: 18px;
+			color: whitesmoke;
+			text-align: justify;
+			padding: 20px 40px 40px 100px;
+			margin: 0px}
+.paragraph2{font-family: Montserrat;
+			font-weight: bold;
+			font-size: 18px;
+			color: whitesmoke;
+			text-align: justify;
+			padding: 20px 40px 40px 100px;
+			margin: 0px}
+.paragraph3{font-family: Montserrat;
+			font-style: italic;
+			font-size: 18px;
+			color: whitesmoke;
+			text-align: justify;
+			padding: 20px 40px 40px 100px;
+			margin: 0px}
+.divmain{color: darkgray;}
+.div1 {float: left;
+		width: 50%}
+.div2 {float: right;
+		width: 50%}
+.freddie {width: 75%;
+			padding: 190px 100px 60px 80px}
